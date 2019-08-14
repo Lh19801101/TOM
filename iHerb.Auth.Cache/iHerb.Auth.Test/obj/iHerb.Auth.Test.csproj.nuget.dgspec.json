@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hong.li\\source\\repos\\iHerb.Auth.Cache\\iHerb.Auth.Test\\iHerb.Auth.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hong.li\\source\\repos\\iHerb.Auth.Cache\\iHerb.Auth.Cache\\iHerb.Auth.Cache.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hong.li\\source\\repos\\iHerb.Auth.Cache\\iHerb.Auth.Cache\\iHerb.Auth.Cache.csproj",
+        "projectName": "iHerb.Auth.Cache",
+        "projectPath": "C:\\Users\\hong.li\\source\\repos\\iHerb.Auth.Cache\\iHerb.Auth.Cache\\iHerb.Auth.Cache.csproj",
+        "packagesPath": "C:\\Users\\hong.li\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hong.li\\source\\repos\\iHerb.Auth.Cache\\iHerb.Auth.Cache\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hong.li\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.0.601, )"
+            },
+            "StackExchange.Redis.Extensions.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "StackExchange.Redis.Extensions.Core": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            },
+            "StackExchange.Redis.Extensions.MsgPack": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\hong.li\\source\\repos\\iHerb.Auth.Cache\\iHerb.Auth.Test\\iHerb.Auth.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hong.li\\source\\repos\\iHerb.Auth.Cache\\iHerb.Auth.Test\\iHerb.Auth.Test.csproj",
+        "projectName": "iHerb.Auth.Test",
+        "projectPath": "C:\\Users\\hong.li\\source\\repos\\iHerb.Auth.Cache\\iHerb.Auth.Test\\iHerb.Auth.Test.csproj",
+        "packagesPath": "C:\\Users\\hong.li\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hong.li\\source\\repos\\iHerb.Auth.Cache\\iHerb.Auth.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hong.li\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\hong.li\\source\\repos\\iHerb.Auth.Cache\\iHerb.Auth.Cache\\iHerb.Auth.Cache.csproj": {
+                "projectPath": "C:\\Users\\hong.li\\source\\repos\\iHerb.Auth.Cache\\iHerb.Auth.Cache\\iHerb.Auth.Cache.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\hong.li\source\repos\iHerb.Auth.Cache\iHerb.Auth.Test\obj\Debug\netcoreapp2.2\iHerb.Auth.Test.csprojAssemblyReference.cache
+C:\Users\hong.li\source\repos\iHerb.Auth.Cache\iHerb.Auth.Test\obj\Debug\netcoreapp2.2\iHerb.Auth.Test.csproj.CoreCompileInputs.cache
+C:\Users\hong.li\source\repos\iHerb.Auth.Cache\iHerb.Auth.Test\obj\Debug\netcoreapp2.2\iHerb.Auth.Test.AssemblyInfoInputs.cache
+C:\Users\hong.li\source\repos\iHerb.Auth.Cache\iHerb.Auth.Test\obj\Debug\netcoreapp2.2\iHerb.Auth.Test.AssemblyInfo.cs
+C:\Users\hong.li\source\repos\iHerb.Auth.Cache\iHerb.Auth.Test\bin\Debug\netcoreapp2.2\iHerb.Auth.Test.deps.json
+C:\Users\hong.li\source\repos\iHerb.Auth.Cache\iHerb.Auth.Test\bin\Debug\netcoreapp2.2\iHerb.Auth.Test.runtimeconfig.json
+C:\Users\hong.li\source\repos\iHerb.Auth.Cache\iHerb.Auth.Test\bin\Debug\netcoreapp2.2\iHerb.Auth.Test.runtimeconfig.dev.json
+C:\Users\hong.li\source\repos\iHerb.Auth.Cache\iHerb.Auth.Test\bin\Debug\netcoreapp2.2\iHerb.Auth.Test.dll
+C:\Users\hong.li\source\repos\iHerb.Auth.Cache\iHerb.Auth.Test\bin\Debug\netcoreapp2.2\iHerb.Auth.Test.pdb
+C:\Users\hong.li\source\repos\iHerb.Auth.Cache\iHerb.Auth.Test\bin\Debug\netcoreapp2.2\iHerb.Auth.Cache.dll
+C:\Users\hong.li\source\repos\iHerb.Auth.Cache\iHerb.Auth.Test\bin\Debug\netcoreapp2.2\iHerb.Auth.Cache.pdb
+C:\Users\hong.li\source\repos\iHerb.Auth.Cache\iHerb.Auth.Test\obj\Debug\netcoreapp2.2\iHerb.Auth.Test.csproj.CopyComplete
+C:\Users\hong.li\source\repos\iHerb.Auth.Cache\iHerb.Auth.Test\obj\Debug\netcoreapp2.2\iHerb.Auth.Test.dll
+C:\Users\hong.li\source\repos\iHerb.Auth.Cache\iHerb.Auth.Test\obj\Debug\netcoreapp2.2\iHerb.Auth.Test.pdb
+C:\Users\hong.li\source\repos\iHerb.Auth.Cache\iHerb.Auth.Test\bin\Debug\netcoreapp2.2\appsettings.json

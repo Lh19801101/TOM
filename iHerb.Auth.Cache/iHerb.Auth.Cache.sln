@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iHerb.Auth.Cache", "iHerb.Auth.Cache\iHerb.Auth.Cache.csproj", "{447225AF-065C-4D70-B292-34DF5A57FD59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iHerb.Auth.Test", "iHerb.Auth.Test\iHerb.Auth.Test.csproj", "{6BFCF783-1562-4818-BB96-5CEA99D1A772}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{447225AF-065C-4D70-B292-34DF5A57FD59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{447225AF-065C-4D70-B292-34DF5A57FD59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{447225AF-065C-4D70-B292-34DF5A57FD59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{447225AF-065C-4D70-B292-34DF5A57FD59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BFCF783-1562-4818-BB96-5CEA99D1A772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BFCF783-1562-4818-BB96-5CEA99D1A772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BFCF783-1562-4818-BB96-5CEA99D1A772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BFCF783-1562-4818-BB96-5CEA99D1A772}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9531A1D-4376-4473-9080-947B2C0C8B36}
+	EndGlobalSection
+EndGlobal

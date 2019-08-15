@@ -1,0 +1,15 @@
+C:\Users\hong.li\source\repos\iHerb.Auth.MQ.Test\bin\Debug\netcoreapp2.2\iHerb.Auth.MQ.Test.deps.json
+C:\Users\hong.li\source\repos\iHerb.Auth.MQ.Test\bin\Debug\netcoreapp2.2\iHerb.Auth.MQ.Test.runtimeconfig.json
+C:\Users\hong.li\source\repos\iHerb.Auth.MQ.Test\bin\Debug\netcoreapp2.2\iHerb.Auth.MQ.Test.runtimeconfig.dev.json
+C:\Users\hong.li\source\repos\iHerb.Auth.MQ.Test\bin\Debug\netcoreapp2.2\iHerb.Auth.MQ.Test.dll
+C:\Users\hong.li\source\repos\iHerb.Auth.MQ.Test\obj\Debug\netcoreapp2.2\iHerb.Auth.MQ.Test.csprojAssemblyReference.cache
+C:\Users\hong.li\source\repos\iHerb.Auth.MQ.Test\obj\Debug\netcoreapp2.2\iHerb.Auth.MQ.Test.csproj.CoreCompileInputs.cache
+C:\Users\hong.li\source\repos\iHerb.Auth.MQ.Test\obj\Debug\netcoreapp2.2\iHerb.Auth.MQ.Test.AssemblyInfoInputs.cache
+C:\Users\hong.li\source\repos\iHerb.Auth.MQ.Test\obj\Debug\netcoreapp2.2\iHerb.Auth.MQ.Test.AssemblyInfo.cs
+C:\Users\hong.li\source\repos\iHerb.Auth.MQ.Test\bin\Debug\netcoreapp2.2\iHerb.Auth.MQ.Test.pdb
+C:\Users\hong.li\source\repos\iHerb.Auth.MQ.Test\obj\Debug\netcoreapp2.2\iHerb.Auth.MQ.Test.dll
+C:\Users\hong.li\source\repos\iHerb.Auth.MQ.Test\obj\Debug\netcoreapp2.2\iHerb.Auth.MQ.Test.pdb
+C:\Users\hong.li\source\repos\iHerb.Auth.MQ.Test\bin\Debug\netcoreapp2.2\iHerb.Auth.MQ.dll
+C:\Users\hong.li\source\repos\iHerb.Auth.MQ.Test\bin\Debug\netcoreapp2.2\iHerb.Auth.MQ.pdb
+C:\Users\hong.li\source\repos\iHerb.Auth.MQ.Test\obj\Debug\netcoreapp2.2\iHerb.Auth.MQ.Test.csproj.CopyComplete
+C:\Users\hong.li\source\repos\iHerb.Auth.MQ.Test\bin\Debug\netcoreapp2.2\appsettings.json

@@ -1,0 +1,8 @@
+C:\Users\hong.li\source\repos\iHerb.Auth.MQ\bin\Debug\netcoreapp2.2\iHerb.Auth.MQ.deps.json
+C:\Users\hong.li\source\repos\iHerb.Auth.MQ\bin\Debug\netcoreapp2.2\iHerb.Auth.MQ.dll
+C:\Users\hong.li\source\repos\iHerb.Auth.MQ\obj\Debug\netcoreapp2.2\iHerb.Auth.MQ.csproj.CoreCompileInputs.cache
+C:\Users\hong.li\source\repos\iHerb.Auth.MQ\obj\Debug\netcoreapp2.2\iHerb.Auth.MQ.AssemblyInfoInputs.cache
+C:\Users\hong.li\source\repos\iHerb.Auth.MQ\obj\Debug\netcoreapp2.2\iHerb.Auth.MQ.AssemblyInfo.cs
+C:\Users\hong.li\source\repos\iHerb.Auth.MQ\bin\Debug\netcoreapp2.2\iHerb.Auth.MQ.pdb
+C:\Users\hong.li\source\repos\iHerb.Auth.MQ\obj\Debug\netcoreapp2.2\iHerb.Auth.MQ.dll
+C:\Users\hong.li\source\repos\iHerb.Auth.MQ\obj\Debug\netcoreapp2.2\iHerb.Auth.MQ.pdb
